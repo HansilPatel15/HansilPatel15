@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecyrity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Mac changer</b>
   - [Mac_changer](https://github.com/HansilPatel15/Mac_changer)
+- <b>Network scanner</b>
+  - [Network_scanner](https://github.com/HansilPatel15/Network_scanner)
 
  
 <h2> Certifications</h2>
