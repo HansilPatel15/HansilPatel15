@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecyrity Projects:</h2>
 
-- <b>Mac changer</b>
+- <b>Mac Changer</b>
   - [Mac_changer](https://github.com/HansilPatel15/Mac_changer)
+- <b>Network Scanner</b>
+  - [Network_scanner](https://github.com/HansilPatel15/Network_scanner)
+- <b>ARP Spoofer</b>
+  - [arp_spoofer](https://github.com/HansilPatel15/arp_spoofer)
 - <b>Network scanner</b>
   - [Network_scanner](https://github.com/HansilPatel15/Network_scanner)
 
