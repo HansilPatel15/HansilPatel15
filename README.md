@@ -10,8 +10,8 @@
   - [arp_spoofer](https://github.com/HansilPatel15/arp_spoofer)
 - <b>Packet Sniffer</b>
   - [packet_sniffer](https://github.com/HansilPatel15/packet_sniffer)
-- <b>Packet Sniffer</b>
-  - [packet_sniffer](https://github.com/HansilPatel15/packet_sniffer)
+- <b>DNS Spoofer</b>
+  - [dns_spoofer](https://github.com/HansilPatel15/dns_spoofer)
 - <b>Packet Sniffer</b>
   - [packet_sniffer](https://github.com/HansilPatel15/packet_sniffer)
 
