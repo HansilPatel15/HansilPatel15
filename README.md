@@ -8,8 +8,12 @@
   - [Network_scanner](https://github.com/HansilPatel15/Network_scanner)
 - <b>ARP Spoofer</b>
   - [arp_spoofer](https://github.com/HansilPatel15/arp_spoofer)
-- <b>Network scanner</b>
-  - [Network_scanner](https://github.com/HansilPatel15/Network_scanner)
+- <b>Packet Sniffer</b>
+  - [packet_sniffer](https://github.com/HansilPatel15/packet_sniffer)
+- <b>Packet Sniffer</b>
+  - [packet_sniffer](https://github.com/HansilPatel15/packet_sniffer)
+- <b>Packet Sniffer</b>
+  - [packet_sniffer](https://github.com/HansilPatel15/packet_sniffer)
 
  
 <h2> Certifications</h2>
