@@ -14,8 +14,8 @@
   - [dns_spoofer](https://github.com/HansilPatel15/dns_spoofer)
 - <b>File Interceptor</b>
   - [file_interceptor](https://github.com/HansilPatel15/file_interceptor)
-- <b>File Interceptor</b>
-  - [file_interceptor](https://github.com/HansilPatel15/file_interceptor)
+- <b>Code Injector</b>
+  - [code_injector](https://github.com/HansilPatel15/code_injector)
 
  
 <h2> Certifications</h2>
