@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hansil! <br/>
 
-<h2>👨‍💻 Cybersecyrity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Mac Changer</b>
   - [Mac_changer](https://github.com/HansilPatel15/Mac_changer)
